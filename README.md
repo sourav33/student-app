@@ -14,7 +14,7 @@ php artisan serve
 ```
 php artisan make:model Student -mcsf
 ```
-### Step 4 :: Create student model, controller, seeder and factory in single cmd.
+### Step 4 :: Create student model, migration, controller, seeder and factory in single cmd.
 ```
 php artisan make:model Student -mcsf
 ```
